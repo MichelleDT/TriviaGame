@@ -1,0 +1,97 @@
+/* Backgrounds */
+body {
+	background-color: #2d2944;
+}
+
+.jumbotron {
+  background-color:#292d6a;
+  color: white;
+}
+
+#gameSection, #scoreSection {
+  background-color: #292d6a;
+  color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*FOR TESTING*/
+/*#numberSection, #totalPoints {
+	background-color: orange;
+}*/
+
+#buttonSection {
+	padding: 0px;
+	padding-top: 50px;
+  padding-bottom: 25px;
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  vertical-align: top;
+  align-items: center;
+}
+
+/* Fonts */
+h1, h2, h3 {
+	font-family: 'Fredoka One', cursive ;
+}
+
+p {
+	font-family: 'Fredoka One', cursive ;
+}
+
+.numberBox {
+	font-size: 100px;
+	margin: 0px;
+}
+
+/* images for buttons */ 
+
+.icons {
+	display: inline-block;
+  	max-width: 150px;
+  	max-height: 150px;
+  	width: auto;
+  	height: auto;
+  	margin:10px;
+}
+
+  /* body {
+    background-color: #fff;
+  }
+  
+  main {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  header {
+    text-align: center;
+    opacity: ;
+    font-family: 'Fredoka One', cursive;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 75px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+  }
+  
+  .Status{
+    font-family: 'Fredoka One', cursive;
+    color: #fff;
+  }
+  
+  .winOrLossMessage {
+    font-size: 70px;
+    color: #fff; 
+    padding: 5px;
+  }
+  
+  .animal-image {
+    width: 300px;
+    height: 300px;
+  }
