@@ -1,97 +1,25 @@
 /* Backgrounds */
-body {
-	background-color: #2d2944;
+body{
+	background-color:#4FC3C7;
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  color: black;
+  font-size: 40px;
 }
 
-.jumbotron {
-  background-color:#292d6a;
-  color: white;
+.heading{
+  color: black; 
 }
 
-#gameSection, #scoreSection {
-  background-color: #292d6a;
-  color: white;
-	margin-left: auto;
-	margin-right: auto;
+.last-seconds{
+  color:#e32426; 
+
+.option{
+  margin: 15px;
 }
 
-/*FOR TESTING*/
-/*#numberSection, #totalPoints {
-	background-color: orange;
-}*/
+#remaining-time{
 
-#buttonSection {
-	padding: 0px;
-	padding-top: 50px;
-  padding-bottom: 25px;
-  width: 300px;
-  height: 300px;
-  display: inline-block;
-  vertical-align: top;
-  align-items: center;
+  color: black; 
 }
 
-/* Fonts */
-h1, h2, h3 {
-	font-family: 'Fredoka One', cursive ;
-}
-
-p {
-	font-family: 'Fredoka One', cursive ;
-}
-
-.numberBox {
-	font-size: 100px;
-	margin: 0px;
-}
-
-/* images for buttons */ 
-
-.icons {
-	display: inline-block;
-  	max-width: 150px;
-  	max-height: 150px;
-  	width: auto;
-  	height: auto;
-  	margin:10px;
-}
-
-  /* body {
-    background-color: #fff;
-  }
-  
-  main {
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    
-  }
-  
-  header {
-    text-align: center;
-    opacity: ;
-    font-family: 'Fredoka One', cursive;
-    color: black;
-    text-transform: uppercase;
-    letter-spacing: 10px;
-    font-size: 75px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-top: 100px;
-  }
-  
-  .Status{
-    font-family: 'Fredoka One', cursive;
-    color: #fff;
-  }
-  
-  .winOrLossMessage {
-    font-size: 70px;
-    color: #fff; 
-    padding: 5px;
-  }
-  
-  .animal-image {
-    width: 300px;
-    height: 300px;
-  }
