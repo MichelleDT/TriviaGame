@@ -1,14 +1,15 @@
-/* Backgrounds */
+/* Style Sheet*/
 body{
 	background-color:#4FC3C7;
   text-align: center;
-  font-family: 'Bangers', cursive;
+  font-family: 'Lexend Deca', sans-serif;
   color: black;
-  font-size: 40px;
+  font-size: 20px;
 }
 
 .heading{
   color: black; 
+  Font-family: 'Bangers', cursive;
 }
 
 .last-seconds{
@@ -22,4 +23,7 @@ body{
 
   color: black; 
 }
+#options{
 
+ margin: 20px;
+}
